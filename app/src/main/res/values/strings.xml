@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DragonBallZ</string>
+    <string name="planet_earth">Planet Earth</string>
+    <string name="coming_up">Coming Up...</string>
+    <string name="world_martial_arts_tournament">World Martial Arts Tournament</string>
+    <string name="participants">Participants</string>
+    <string name="base_ki_max_ki">"Base Ki - %1$s️ || Max Ki - %2$s "</string>
+    <string name="affiliation">Affiliation - %1$s</string>
+    <string name="close">Close</string>
+</resources>
